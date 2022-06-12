@@ -1,4 +1,4 @@
-# cms
+# Produkt Cyfrowy
 Komenda na wykonanie migracji (najlepiej wykonać po każdej aktualizacji z gita, potrzebna gdy pojawia się nowa migracja w katalogu migrations)
 
 php bin/console doctrine:migrations:migrate
